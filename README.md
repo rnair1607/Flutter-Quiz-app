@@ -1,16 +1,15 @@
-# myapp
+# Flutter Quiz App
 
-A new Flutter project.
+A new Flutter project that uses routing and Provider for state management with Firebase for backend.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![![img1](D:\Projects\Flutter\myapp\flutter 1.jpg)](<flutter 1.jpg>)
 
-A few resources to get you started if this is your first Flutter project:
+![![img2](flutter 2.jpg)](<flutter 2.jpg>)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![![img3](flutter 3.jpg)](<flutter 3.jpg>)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![![img4](flutter 4.jpg)](<flutter 4.jpg>)
+
+![![img5](flutter 5.jpg)](<flutter 5.jpg>)
